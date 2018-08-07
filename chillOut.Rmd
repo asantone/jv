@@ -1,5 +1,5 @@
 # Chill Out
-```{r img1, fig.cap='caption', out.width='20%', fig.align='center', echo=FALSE}
+```{r chillOutFig, out.width='50%', fig.align='center', echo=FALSE}
 knitr::include_graphics("img/chillOut.png")
 ```
 Unit overview text
