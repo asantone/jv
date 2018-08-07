@@ -6,7 +6,7 @@ bookdown::gitbook:
       position: fixed
     download: ["pdf", "epub", "mobi"]
     toc:
-      collapse: subsection
+      collapse: section
       scroll_highlight: yes
       before: |
         <li><a href="https://lemelson.mit.edu/">Lemelson-MIT Program</a></li>
