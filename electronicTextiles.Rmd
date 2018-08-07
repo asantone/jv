@@ -1,5 +1,5 @@
 # Electronic Textiles
-```{r chillOutFig, out.width='50%', fig.align='center', echo=FALSE}
+```{r chillOutFig, out.width='30%', fig.align='center', echo=FALSE}
 knitr::include_graphics("img/electronicTextiles.png")
 ```
 Unit overview text

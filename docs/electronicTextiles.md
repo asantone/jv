@@ -1,5 +1,5 @@
 # Electronic Textiles
-<img src="img/electronicTextiles.png" width="50%" style="display: block; margin: auto;" />
+<img src="img/electronicTextiles.png" width="30%" style="display: block; margin: auto;" />
 Unit overview text
 
 ## Educator Guide
