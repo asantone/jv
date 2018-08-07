@@ -1,4 +1,4 @@
-# Chill Out {.tabset}
+# Chill Out {-}
 
 ## Educator Guide
 
