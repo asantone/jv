@@ -1,3 +1,10 @@
+---
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
 # U Control
 ```{r chillOutFig, out.width='50%', fig.align='center', echo=FALSE}
 knitr::include_graphics("img/uControl.png")
