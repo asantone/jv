@@ -1,5 +1,5 @@
 bookdown::html_book:
-  theme: cerulean
+  theme: spacelab
 bookdown::gitbook:
   css: style.css
   split_by: chapter
