@@ -1,0 +1,11 @@
+# Electronic Textiles
+```{r chillOutFig, out.width='50%', fig.align='center', echo=FALSE}
+knitr::include_graphics("img/electronicTextiles.png")
+```
+Unit overview text
+
+## Educator Guide
+Educator Guide version
+
+## Student Guide
+Student Guide version

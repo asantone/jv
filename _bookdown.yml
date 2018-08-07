@@ -2,6 +2,16 @@ book_filename: "jvActivityGuides"
 chapter_name: "Meeting "
 repo: https://github.com/asantone/jv
 output_dir: docs
-rmd_files: ["index.Rmd", "chillOut.Rmd", "references.Rmd"]
+rmd_files: [  "index.Rmd", 
+              "chillOut.Rmd", 
+              "electronicTextiles.Rmd", 
+              "growingGreen.Rmd",
+              "noiseMakers.Rmd",
+              "pumpItUp.Rmd",
+              "shoeSoles.Rmd",
+              "superLens.Rmd",
+              "uControl.Rmd",
+              "references.Rmd"
+            ]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes

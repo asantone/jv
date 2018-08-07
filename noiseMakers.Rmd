@@ -1,0 +1,11 @@
+# Noise Makers
+```{r chillOutFig, out.width='50%', fig.align='center', echo=FALSE}
+knitr::include_graphics("img/noiseMakers.png")
+```
+Unit overview text
+
+## Educator Guide
+Educator Guide version
+
+## Student Guide
+Student Guide version
