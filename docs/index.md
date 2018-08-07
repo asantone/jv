@@ -8,6 +8,7 @@ bibliography: book.bib
 biblio-style: apalike
 link-citations: yes
 site: bookdown::bookdown_site
+output: pdf_document
 #cover-image: "img/knit-logo.png"
 ---
 
