@@ -1,3 +1,5 @@
+bookdown::html_book:
+  theme: cerulean
 bookdown::gitbook:
   css: style.css
   split_by: chapter
