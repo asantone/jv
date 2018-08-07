@@ -1,0 +1,7 @@
+book_filename: "jvActivityGuides"
+chapter_name: "Meeting "
+repo: https://github.com/asantone/jv
+output_dir: docs
+rmd_files: ["index.Rmd","references.Rmd"]
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
