@@ -1,5 +1,5 @@
 # Noise Makers
-<img src="img/noiseMakers.png" width="50%" style="display: block; margin: auto;" />
+<img src="img/noiseMakers.jpg" width="50%" style="display: block; margin: auto;" />
 Unit overview text
 
 ## Educator Guide
