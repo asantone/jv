@@ -13,6 +13,6 @@ site: bookdown::bookdown_site
 
 # Preface {-}
 
-Brief explanatory text about the program.
+Brief explanatory text about the program. Inventions [@inventingModAm] are useful and unique.
 
 
