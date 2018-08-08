@@ -21,8 +21,7 @@ h5 {font-family: Avenir, Helvetica, sans-serif;}
 h6 {font-family: Avenir, Helvetica, sans-serif;}
 
 .invention {
-  padding: 1em 1em 1em 1em;
-  float:right;
+  padding: 1em 1em 1em 4em;
   margin-bottom: 5px;
   background: #F39331;
   color:#FFF;
@@ -31,6 +30,7 @@ h6 {font-family: Avenir, Helvetica, sans-serif;}
   box-shadow: #f2b230 0.5em 0.5em 0.3em
 }
 
+/*
 .invention:before {
   content: "";
   background-image:url(img/burst.png);
@@ -38,9 +38,8 @@ h6 {font-family: Avenir, Helvetica, sans-serif;}
   left:5px;
   position:absolute;
   top:0;
-
-  /*size of your image*/
   height: 50px;
   width:50px;
  }
+*/
 
