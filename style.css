@@ -12,3 +12,11 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+h1 {font-family: Avenir, Helvetica, sans-serif;}
+h2 {font-family: Avenir, Helvetica, sans-serif; color: #3FAAE0;}
+h3 {font-family: Avenir, Helvetica, sans-serif; color: #F39331;}
+h4 {font-family: Avenir, Helvetica, sans-serif;}
+h5 {font-family: Avenir, Helvetica, sans-serif;}
+h6 {font-family: Avenir, Helvetica, sans-serif;}
+
