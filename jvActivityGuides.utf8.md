@@ -1,7 +1,29 @@
+--- 
+title: "JV InvenTeams Activity Guides"
+author: "Lemelson-MIT Program"
+date: "2018-08-08"
+description: JV InvenTeams Curriculum
+documentclass: book
+bibliography: book.bib
+biblio-style: apalike
+link-citations: yes
+site: bookdown::bookdown_site
+#cover-image: "img/knit-logo.png"
+---
+
+# Preface {-}
+
+Brief explanatory text about the program. Inventions [@inventingModAm] are useful and unique.
+
+
+
+<!--chapter:end:index.Rmd-->
+
 
 
 # Chill Out
-<img src="img/chillOut.png" width="50%" style="display: block; margin: auto;" />
+
+\begin{center}\includegraphics[width=0.5\linewidth]{img/chillOut} \end{center}
 Unit overview text
 
 ## Educator Guide
@@ -41,3 +63,108 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Student Guide
 Student Guide version
+
+<!--chapter:end:chillOut.Rmd-->
+
+# Electronic Textiles
+
+\begin{center}\includegraphics[width=0.3\linewidth]{img/electronicTextiles} \end{center}
+Unit overview text
+
+## Educator Guide
+Educator Guide version
+
+## Student Guide
+Student Guide version
+
+<!--chapter:end:electronicTextiles.Rmd-->
+
+# Growing Green
+
+\begin{center}\includegraphics[width=0.5\linewidth]{img/growingGreen} \end{center}
+Unit overview text
+
+## Educator Guide
+Educator Guide version
+
+## Student Guide
+Student Guide version
+
+<!--chapter:end:growingGreen.Rmd-->
+
+# Noise Makers
+
+\begin{center}\includegraphics[width=0.5\linewidth]{img/noiseMakers} \end{center}
+Unit overview text
+
+## Educator Guide
+Educator Guide version
+
+## Student Guide
+Student Guide version
+
+<!--chapter:end:noiseMakers.Rmd-->
+
+# Pump It Up
+
+\begin{center}\includegraphics[width=0.5\linewidth]{img/pumpItUp} \end{center}
+Unit overview text
+
+## Educator Guide
+Educator Guide version
+
+## Student Guide
+Student Guide version
+
+<!--chapter:end:pumpItUp.Rmd-->
+
+# Shoe Soles
+
+\begin{center}\includegraphics[width=0.5\linewidth]{img/shoeSoles} \end{center}
+Unit overview text
+
+## Educator Guide
+Educator Guide version
+
+## Student Guide
+Student Guide version
+
+<!--chapter:end:shoeSoles.Rmd-->
+
+# Super Lens
+
+\begin{center}\includegraphics[width=0.5\linewidth]{img/superLens} \end{center}
+Unit overview text
+
+## Educator Guide
+Educator Guide version
+
+## Student Guide
+Student Guide version
+
+<!--chapter:end:superLens.Rmd-->
+
+---
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+# U Control
+
+\begin{center}\includegraphics[width=0.5\linewidth]{img/uControl} \end{center}
+Unit overview text
+
+## Educator Guide
+Educator Guide version
+
+## Student Guide
+Student Guide version
+
+<!--chapter:end:uControl.Rmd-->
+
+
+
+<!--chapter:end:references.Rmd-->
+
