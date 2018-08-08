@@ -26,14 +26,16 @@ h6 {font-family: Avenir, Helvetica, sans-serif;}
   background: #F39331;
   color:#FFF;
   position:relative;
+  border-radius: 25px;
 }
 
 .invention:before {
   content: "";
   background-image:url(img/burst.png);
   background-size: 100% 100%;
-  float:left;
-  /*display: inline-block;*/
+  left:10px;
+  position:absolute;
+  top:0;
 
   /*size of your image*/
   height: 50px;
