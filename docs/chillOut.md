@@ -13,7 +13,7 @@ Educator Guide version
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 <div class="invention">
-<p>Test Test Sit amet volutpat consequat mauris nunc congue nisi vitae suscipit. Faucibus scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam.</p>
+<p>Sit amet volutpat consequat mauris nunc congue nisi vitae suscipit. Faucibus scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam.</p>
 </div>
 
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
