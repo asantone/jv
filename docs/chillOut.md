@@ -7,12 +7,9 @@ Unit overview text
 ## Educator Guide
 Educator Guide version
 
-\twocolumn
-
 ### What is Heat? {-}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-<img src="img/burst.png" width="5%" style="display: block; margin: auto auto auto 0;" />
 <div class="invention">
 <p>Sit amet volutpat consequat mauris nunc congue nisi vitae suscipit. Faucibus scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam.</p>
 </div>
