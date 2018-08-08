@@ -1,7 +1,7 @@
 --- 
 title: "JV InvenTeams Activity Guides"
 author: "Lemelson-MIT Program"
-date: "2018-08-07"
+date: "2018-08-08"
 description: JV InvenTeams Curriculum
 documentclass: book
 bibliography: book.bib
