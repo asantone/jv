@@ -28,13 +28,17 @@ h6 {font-family: Avenir, Helvetica, sans-serif;}
 }
 
 .invention:before {
-    content: url(img/burst.png);
-    left:10px;
-    position:absolute;
-    top:0;
-    background-size: 20px 20px;
-    display: inline-block;
-    width: 20px; 
-    height: 20px;
+  content: "";
+  background-image:url(img/burst.png);
+  background-size: 100% 100%;
+  display: inline-block;
+
+  /*size of your image*/
+  height: 25px;
+  width:25px;
+  
+  /*if you want to change the position you can use margins or:*/
+  position:absolute;
+  top:1px;
  }
 
