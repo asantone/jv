@@ -1,7 +1,8 @@
 
 
 # Chill Out
-<img src="img/chillOut.png" width="50%" style="display: block; margin: auto;" />
+
+\begin{center}\includegraphics[width=0.5\linewidth]{img/chillOut} \end{center}
 Unit overview text
 
 ## Educator Guide

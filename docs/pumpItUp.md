@@ -1,5 +1,6 @@
 # Pump It Up
-<img src="img/pumpItUp.png" width="50%" style="display: block; margin: auto;" />
+
+\begin{center}\includegraphics[width=0.5\linewidth]{img/pumpItUp} \end{center}
 Unit overview text
 
 ## Educator Guide

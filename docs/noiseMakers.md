@@ -1,5 +1,6 @@
 # Noise Makers
-<img src="img/noiseMakers.jpg" width="50%" style="display: block; margin: auto;" />
+
+\begin{center}\includegraphics[width=0.5\linewidth]{img/noiseMakers} \end{center}
 Unit overview text
 
 ## Educator Guide

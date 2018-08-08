@@ -1,5 +1,6 @@
 # Super Lens
-<img src="img/superLens.png" width="50%" style="display: block; margin: auto;" />
+
+\begin{center}\includegraphics[width=0.5\linewidth]{img/superLens} \end{center}
 Unit overview text
 
 ## Educator Guide

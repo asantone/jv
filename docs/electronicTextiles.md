@@ -1,5 +1,6 @@
 # Electronic Textiles
-<img src="img/electronicTextiles.png" width="30%" style="display: block; margin: auto;" />
+
+\begin{center}\includegraphics[width=0.3\linewidth]{img/electronicTextiles} \end{center}
 Unit overview text
 
 ## Educator Guide

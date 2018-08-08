@@ -1,5 +1,6 @@
 # Growing Green
-<img src="img/growingGreen.png" width="50%" style="display: block; margin: auto;" />
+
+\begin{center}\includegraphics[width=0.5\linewidth]{img/growingGreen} \end{center}
 Unit overview text
 
 ## Educator Guide
