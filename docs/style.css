@@ -20,3 +20,17 @@ h4 {font-family: Avenir, Helvetica, sans-serif;}
 h5 {font-family: Avenir, Helvetica, sans-serif;}
 h6 {font-family: Avenir, Helvetica, sans-serif;}
 
+.invention {
+  padding: 1em 1em 1em 4em;
+  margin-bottom: 10px;
+  background: #f5f5f5;
+  position:relative;
+}
+
+.invention:before {
+    content: "img/burst.png";
+    left:10px;
+    position:absolute;
+    top:0px;
+ }
+
