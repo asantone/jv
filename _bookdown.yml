@@ -1,5 +1,5 @@
 book_filename: "jvActivityGuides"
-chapter_name: "Meeting "
+chapter_name: "Unit "
 repo: https://github.com/asantone/jv
 output_dir: docs
 rmd_files: [  "index.Rmd", 
