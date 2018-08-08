@@ -28,7 +28,7 @@ h6 {font-family: Avenir, Helvetica, sans-serif;}
 }
 
 .invention:before {
-    content: "img/burst.png";
+    content: "../img/burst.png";
     left:10px;
     position:absolute;
     top:0px;
