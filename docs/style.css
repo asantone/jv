@@ -22,27 +22,25 @@ h6 {font-family: Avenir, Helvetica, sans-serif;}
 
 .invention {
   padding: 1em 1em 1em 1em;
-  margin-bottom: 10px;
+  float:right;
+  margin-bottom: 5px;
   background: #F39331;
   color:#FFF;
   position:relative;
   border-radius: 25px;
+  box-shadow: #f2b230 0.5em 0.5em 0.3em
 }
 
 .invention:before {
   content: "";
   background-image:url(img/burst.png);
   background-size: 100% 100%;
-  left:10px;
+  left:5px;
   position:absolute;
   top:0;
 
   /*size of your image*/
   height: 50px;
   width:50px;
-  
-  /*if you want to change the position you can use margins or:*/
-  position:absolute;
-  top:1px;
  }
 
