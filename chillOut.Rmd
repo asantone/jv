@@ -43,3 +43,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Student Guide
 Student Guide version
+
+## Computational Thinking Resources
+Explore [coding activities designed to work with this unit](https://asantone.github.io/rNotebooks/).
